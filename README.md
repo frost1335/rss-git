@@ -1,1 +1,1 @@
-# rss-git
+# My learning git repository
